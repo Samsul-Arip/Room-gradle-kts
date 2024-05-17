@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="transaksi">Transaksi</string>
+    <string name="komoditas">Komoditas</string>
+    <string name="container">Container</string>
+    <string name="pilih_menu">Pilih menu</string>
+    <string name="pilih_menu_transaksi">Pilih menu transaksi</string>
+</resources>
